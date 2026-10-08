@@ -27,5 +27,8 @@ print(type(retezec_znaku))
 print("abc" + "def")
 print("#"*30)
 
-
+pokus = int(True)
+druhy_pokus = int(False)
+print(pokus)
+print(druhy_pokus)
 

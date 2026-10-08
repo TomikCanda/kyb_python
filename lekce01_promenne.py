@@ -5,7 +5,7 @@ print(type(cislo))
 
 nevim = kolik_itemu_ma_jeden_stack // cislo #celočíselné dělení (není to zaokrouhlování)
 
-nevim2 = kolik_itemu_ma_jeden_stack % cislo #zbytek po celočíselném dělení 
+nevim2 = kolik_itemu_ma_jeden_stack % cislo #zbytek po celočíselném dělení = modulo
 
 nevim3 = kolik_itemu_ma_jeden_stack ** cislo #mocnina
 
